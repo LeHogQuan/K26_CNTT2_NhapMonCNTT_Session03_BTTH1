@@ -12,8 +12,6 @@ Phần 1: Các sai lầm của Nam
 
 Phần 2:
 
-*tree
-
 D:\Windows\System32\bai-tap-cua-nam\session-01\bai-tap-1.py.
 
 
